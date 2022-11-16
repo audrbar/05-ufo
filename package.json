@@ -1,0 +1,19 @@
+{
+  "name": "05-ufo",
+  "version": "1.0.0",
+  "description": "ufo projektas html",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4105",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "ufo"
+  ],
+  "author": "audrbar",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
