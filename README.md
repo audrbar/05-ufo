@@ -9,3 +9,5 @@ Ufo
  - [x] padaryti
 
 Daugiau informacijos [wikipedijoje] (www.lrt.lt)
+
+![Alt text](./img/ufo1.jpg)
