@@ -13,11 +13,7 @@ _Website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-<<<<<<< HEAD
 Site published at: https://audrbar.github.io/05-ufo/
-=======
-Site published at: [https://github.com/audrbar/05-ufo.git](https://github.com/audrbar/05-ufo.git)
->>>>>>> 251eb613c048771b8b3f50188f692dc214b9372d
 
 Design: [UFO](./img/design.png)
 
@@ -49,11 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-<<<<<<< HEAD
     git clone https://github.com/audrbar/05-ufo.git
-=======
-    git clone [https://github.com/audrbar/05-ufo.git] (https://github.com/audrbar/05-ufo.git)
->>>>>>> 251eb613c048771b8b3f50188f692dc214b9372d
     ```
 2. Install NPM packages
     ```sh
