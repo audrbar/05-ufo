@@ -7,7 +7,7 @@
 # 05-UFO
 _Website design project_
 <br>
-![Alt text](./img/ufo1.jpg)
+![Alt text](./img/ufo.jpg)
 <br>
 ## 🌟 About
 
