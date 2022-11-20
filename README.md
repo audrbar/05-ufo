@@ -1,37 +1,19 @@
-# 05-ufo
-Ufo
-# helo
-## helo
-### helo
- - labas 
- - labas 
- - [ ] reikia
- - [x] padaryti
-
-Daugiau informacijos [wikipedijoje] (www.lrt.lt)
-**BOLD**   _PASVIRES_  
-![Alt text](./img/ufo1.jpg)
-
-![MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# UFO
-
-_website design project_
-
+# 05-UFO
+_Website design project_
 <br>
-
+![Alt text](./img/ufo1.jpg)
+<br>
 ## 🌟 About
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/41-grupe-ufo/
+Site published at: [https://github.com/audrbar/05-ufo.git](https://github.com/audrbar/05-ufo.git)
 
 Design: [UFO](./img/design.png)
 
@@ -63,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
+    git clone [https://github.com/audrbar/05-ufo.git] (https://github.com/audrbar/05-ufo.git)
     ```
 2. Install NPM packages
     ```sh
@@ -84,7 +66,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Audrius: [Github](https://github.com/audrbar)
 
 ## ⚠️ License
 
